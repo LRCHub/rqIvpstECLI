@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "CPR",
+  "base_artist": "DJ RYOW",
+  "createdAt": "2025-12-03T13:52:00.656670Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CPR",
+      "artist": "cupcakKe",
+      "has_synced": true,
+      "path": "select/01_CPR_cupcakKe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle [CPR-018]",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/02_Bizarre_Love_Triangle_[CPR-018]_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Frozen (CPR Remix By Copy Paste Repeat)",
+      "artist": "Celldweller",
+      "has_synced": false,
+      "path": "select/03_Frozen_(CPR_Remix_By_Copy_Paste_Repeat)_Celldweller.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "CPR",
+      "artist": "Summer Walker",
+      "has_synced": true,
+      "path": "select/04_CPR_Summer_Walker.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "CPR",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/05_CPR_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "CPR",
+      "artist": "Lynks",
+      "has_synced": true,
+      "path": "select/06_CPR_Lynks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cpr",
+      "artist": "cupcakKe",
+      "has_synced": true,
+      "path": "select/07_Cpr_cupcakKe.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Wanna Dance with Somebody - Cpr Remix Radio Edit",
+      "artist": "Airi L",
+      "has_synced": false,
+      "path": "select/08_I_Wanna_Dance_with_Somebody_-_Cpr_Remix_Radio_Edit_Airi_L.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "CPR / Claws, Pt. 2",
+      "artist": "Typhoon",
+      "has_synced": true,
+      "path": "select/09_CPR___Claws,_Pt._2_Typhoon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "CPR",
+      "artist": "nihmune",
+      "has_synced": true,
+      "path": "select/10_CPR_nihmune.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "CPR (Acoustic) [Bonus Track]",
+      "artist": "TYPHOON",
+      "has_synced": true,
+      "path": "select/11_CPR_(Acoustic)_[Bonus_Track]_TYPHOON.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "CPR",
+      "artist": "Yo Gotti",
+      "has_synced": true,
+      "path": "select/12_CPR_Yo_Gotti.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CPR (feat. EMI MARIA & DADA)",
+      "artist": "DJ RYOW",
+      "has_synced": false,
+      "path": "select/pl_01_CPR_(feat._EMI_MARIA_&_DADA)_DJ_RYOW.txt"
+    }
+  ]
+}
